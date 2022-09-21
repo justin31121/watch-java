@@ -1,1 +1,0 @@
-javac -cp ".\libs\*" .\src\*.java -d .
